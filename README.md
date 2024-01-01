@@ -1,6 +1,6 @@
 # SunWoo Pi  
 
-Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.) 
+Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
 
 <br>
 
@@ -20,6 +20,66 @@ Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
   <br><br>
   <img height=27em src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
+</p>
+
+<br>
+
+<h3 align="center">🏢 &nbsp Experience &nbsp 🏢</h3>
+<p align="center">
+B.S, Computer Engineering, Kyonggi Univ. (Mar. 2018 - Feb. 2024)<br>
+AI R&D Internship, (주)헬스허브 (Jul. 2023 - Aug. 2023)<br>
+2023 SW인재 페스티벌 경기대학교 대표 (Nov. 2nd 2023 - Nov. 4th 2023)<br>
+K-SW Square Winter Program, Purdue Univ. (Jan. 2024 - Feb. 2024)<br>
+M.S, Computer Science, Kyonggi Univ. (Mar. 2024 - )
+</p>
+
+<br>
+
+<h3 align="center">📰 &nbsp Papers &nbsp 📰</h3>
+
+<h4 align="center" style="font-weight: 700;">Domestic Conference</h4>
+<p align="center">
+피선우, 이병대, “딥러닝과 앙상블 기법을 이용한 무릎 골관절염 중증도 자동 분류”, 한국인터넷정보학회 춘계학술발표대회, 2023<br>
+홍찬의, 김정효, 노승하, 임원빈, 피선우, 김상진, “인공지능 기반의 스마트 육아 어플리케이션 시스템 연구 개발”, 한국정보기술학회 하계종합학술대회 및 대학생 논문경진대회, 2023<br>
+</p>
+<h4 align="center" style="font-weight: 700;">International Conference</h4>
+<p align="center">
+Jeonghyo Kim, Seungha Noh, Sunwoo Pi, Wonbeen Im, Chanui Hong, Sangjin Kim, "An Algorithm based on Infant Abnormal Posture Detection through AI Pose Estimation", 18th Asia Pacific International Conference on Information Science and Technology, 2023<br>
+</p>
+<h4 align="center" style="font-weight: 700;">International Journals</h4>
+<p align="center">
+Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee, “Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees,” Scientific Reports, 13(22887), 2023<br>
+</p>
+
+<br>
+
+<h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
+<p align="center">
+<table align="center" style="border-collapse: collapse; width: 80%;">
+  <tr>
+    <td style="border: 1px solid black; text-align: center;">X</td>
+    <td style="border: 1px solid black;"><img src="2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
+    <td style="border: 1px solid black;"><img src="심화캡스톤디자인_대상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
+    <td style="border: 1px solid black;"><img src="2023 상상기업_우수상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
+    <td style="border: 1px solid black;"><img src="공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; text-align: center;"><b>NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (Jan. 2023)</b></td>
+    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)</b></td>
+    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)</b></td>
+    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)</b></td>
+    <td style="border: 1px solid black; text-align: center;"><b>과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)</b></td>
+  </tr>
+</table>
+</p>
+
+<br>
+
+<h3 align="center">📜 &nbsp Certificate &nbsp 📜</h3>
+<p align="center">
+SQL Developer(SQLD) certification (Oct. 2021)<br>
+정보처리기사 certification (Nov. 2023)<br>
+TOPCIT Lv.3 certification (Nov. 2023)<br>
 </p>
 
 <br>
