@@ -54,28 +54,17 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 <br>
 
 <h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
-<p align="center">
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid black; text-align: center;">X</td>
-    <td style="border: 1px solid black;"><img src="images/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
-    <td style="border: 1px solid black;"><img src="images/심화캡스톤디자인_대상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; text-align: center;"><b>NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (Jan. 2023)</b></td>
-    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)</b></td>
-    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)</b></td>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black;"><img src="images/2023 상상기업_우수상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
-    <td style="border: 1px solid black;"><img src="images/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px" style="display: block; margin-left: auto; margin-right: auto;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; text-align: center;"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)</b></td>
-    <td style="border: 1px solid black; text-align: center;"><b>과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)</b></td>
-  </tr>
-</table>
-</p>
+<div align="center">
+
+| X | <img src="images/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="images/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
+|:--:|:--:|:--:|
+| **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
+
+| <img src="images/2023 상상기업_우수상_LSTM.jpg" width="150px"> | <img src="images/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px"> |
+|:--:|:--:|
+| **경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)** | **과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)** |
+
+</div>
 
 <br>
 
