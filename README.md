@@ -1,4 +1,4 @@
-# SunWoo Pi  
+# Sunwoo Pi  
 
 Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
 
