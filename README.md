@@ -30,7 +30,7 @@ B.S, Computer Engineering, Kyonggi Univ. (Mar. 2018 - Feb. 2024)<br>
 AI R&D Internship, (주)헬스허브 (Jul. 2023 - Aug. 2023)<br>
 2023 SW인재 페스티벌 경기대학교 대표 (Nov. 2nd 2023 - Nov. 4th 2023)<br>
 AI R&D Internship, Visualsyn(비주얼신) (Oct. 2023 - Dec. 2023)<br>
-K-SW Square Winter Program, Purdue Univ. (Jan. 2024 - Feb. 2024)<br>
+K-SW Square Winter Program, Student Internship, Purdue Univ. (Jan. 2024 - Feb. 2024)<br>
 M.S, Computer Science, Kyonggi Univ. (Mar. 2024 - )
 </p>
 
