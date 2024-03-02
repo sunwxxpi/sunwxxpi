@@ -75,15 +75,15 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 SQL Developer(SQLD) certificate (Oct. 2021)<br>
 정보처리기사 certificate (Nov. 2023)<br>
 TOPCIT Lv.3 certificate (Nov. 2023)<br>
-<a href="images/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg", target="_blank">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
+<a href="images/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
 </p>
 
 <br>
 
 <h3 align="center">🌈 &nbsp Follow Me &nbsp 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@ppssww1202", target="_blank"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ppssww1202"/></a>&nbsp
-  <a href="mailto:ppssww1202@gmail.com", target="_blank"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ppssww1202@gmail.com"/></a>
+  <a href="https://velog.io/@ppssww1202"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ppssww1202"/></a>&nbsp
+  <a href="mailto:ppssww1202@gmail.com"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ppssww1202@gmail.com"/></a>
 </p>
 
 <br>
