@@ -1,6 +1,6 @@
 # Sunwoo Pi  
 
-Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
+M.S. in Computer Science, Kyonggi University
 
 <br>
 
@@ -13,8 +13,9 @@ Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
   <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
   <br><br>
@@ -29,8 +30,8 @@ Undergraduate Student in Division of AI & Computer Engineering (Kyonggi Univ.)
 B.S, Computer Engineering, Kyonggi Univ. (Mar. 2018 - Feb. 2024)<br>
 AI R&D Internship, (주)헬스허브 (Jul. 2023 - Aug. 2023)<br>
 2023 SW인재 페스티벌 경기대학교 대표 (Nov. 2nd 2023 - Nov. 4th 2023)<br>
-AI R&D Internship, Visualsyn(비주얼신) (Oct. 2023 - Dec. 2023)<br>
-K-SW Square Winter Program, Student Internship, Purdue Univ. (Jan. 2024 - Feb. 2024)<br>
+AI R&D Internship, (주)Visualsyn(비주얼신) (Oct. 2023 - Dec. 2023)<br>
+K-SW Square Winter Program, Student Intership, Purdue Univ. (Dec. 2023 - Feb. 2024)<br>
 M.S, Computer Science, Kyonggi Univ. (Mar. 2024 - )
 </p>
 
@@ -71,17 +72,18 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 
 <h3 align="center">📜 &nbsp Certificate &nbsp 📜</h3>
 <p align="center">
-SQL Developer(SQLD) certification (Oct. 2021)<br>
-정보처리기사 certification (Nov. 2023)<br>
-TOPCIT Lv.3 certification (Nov. 2023)<br>
+SQL Developer(SQLD) certificate (Oct. 2021)<br>
+정보처리기사 certificate (Nov. 2023)<br>
+TOPCIT Lv.3 certificate (Nov. 2023)<br>
+<a href="images/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg", target="_blank">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
 </p>
 
 <br>
 
 <h3 align="center">🌈 &nbsp Follow Me &nbsp 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@ppssww1202"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ppssww1202"/></a>&nbsp
-  <a href="mailto:ppssww1202@gmail.com"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ppssww1202@gmail.com"/></a>
+  <a href="https://velog.io/@ppssww1202", target="_blank"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ppssww1202"/></a>&nbsp
+  <a href="mailto:ppssww1202@gmail.com", target="_blank"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ppssww1202@gmail.com"/></a>
 </p>
 
 <br>
@@ -93,7 +95,7 @@ TOPCIT Lv.3 certification (Nov. 2023)<br>
 </p>
 
 <!--
-**SunWoo98Pi/SunWoo98Pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sunwoo98Pi/Sunwoo98Pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
