@@ -8,7 +8,8 @@ M.S. in Computer Science, Kyonggi University
 <p align="center">
   <img height=27em src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Java-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
+  <img height=27em src="https://img.shields.io/badge/Java-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white"/></a>
   <br><br>
   <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
