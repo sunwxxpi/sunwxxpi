@@ -61,7 +61,7 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 
 | X | <img src="images/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="images/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
 |:--:|:--:|:--:|
-| **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
+| **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (결선) (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
 
 | <img src="images/2023 상상기업_우수상_LSTM.jpg" width="150px"> | <img src="images/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px"> |
 |:--:|:--:|
