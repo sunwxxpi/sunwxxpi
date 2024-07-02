@@ -21,7 +21,7 @@ M.S. in Computer Science, Kyonggi University
   <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
   <br><br>
   <img height=27em src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
+  <img height=27em src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/></a>
 </p>
 
 <br>
