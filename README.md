@@ -91,12 +91,12 @@ TOPCIT Lv.3 certificate (Nov. 2023)<br>
 
 <h3 align="center">👩‍💻 &nbsp My GitHub Stats &nbsp 👩‍💻</h3>
 <p align = "center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=sunwxxpi&cache_seconds=1800&theme=dracula&line_height=27" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=sunwxxpi&show_icons=true&cache_seconds=1800&theme=dracula&line_height=27" >
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sunwxxpi&hide_border=true&theme=dracula"/>
 </p>
 
 <!--
-**Sunwoo98Pi/Sunwoo98Pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunwxxpi/sunwxxpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
