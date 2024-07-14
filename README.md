@@ -59,11 +59,11 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 <h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
 <div align="center">
 
-| X | <img src="images/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="images/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
+| X | <img src="assets/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="assets/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
 |:--:|:--:|:--:|
 | **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (결선) (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
 
-| <img src="images/2023 상상기업_우수상_LSTM.jpg" width="150px"> | <img src="images/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px"> |
+| <img src="assets/2023 상상기업_우수상_LSTM.jpg" width="150px"> | <img src="assets/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px"> |
 |:--:|:--:|
 | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)** | **과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)** |
 
@@ -76,7 +76,7 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 SQL Developer(SQLD) certificate (Oct. 2021)<br>
 정보처리기사 certificate (Nov. 2023)<br>
 TOPCIT Lv.3 certificate (Nov. 2023)<br>
-<a href="images/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
+<a href="assets/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
 </p>
 
 <br>
@@ -91,8 +91,9 @@ TOPCIT Lv.3 certificate (Nov. 2023)<br>
 
 <h3 align="center">👩‍💻 &nbsp My GitHub Stats &nbsp 👩‍💻</h3>
 <p align = "center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=sunwxxpi&show_icons=true&cache_seconds=1800&theme=dracula&line_height=27" >
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sunwxxpi&hide_border=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=sunwxxpi&show_icons=true&theme=dracula&line_height=27"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sunwxxpi&theme=dracula"/>
+  <img width="1000" src="assets/github_snake.svg" alt="snake"/>
 </p>
 
 <!--
