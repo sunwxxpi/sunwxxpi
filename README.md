@@ -73,9 +73,9 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 
 <h3 align="center">📜 &nbsp Certificate &nbsp 📜</h3>
 <p align="center">
-SQL Developer(SQLD) certificate (Oct. 2021)<br>
-정보처리기사 certificate (Nov. 2023)<br>
-TOPCIT Lv.3 certificate (Nov. 2023)<br>
+SQL Developer(SQLD) Certificate (Oct. 2021)<br>
+정보처리기사 Certificate (Nov. 2023)<br>
+TOPCIT Lv.3 Certificate (Nov. 2023)<br>
 <a href="assets/IITP Korean Software Square Winter 2024 Program_Certificate of Merit.jpg">IITP Korean Software Square Winter 2024 Program Certificate of Merit (Feb. 2024)</a><br>
 <a href="assets/2024 스마일게이트 퓨처랩 AI 서비스 위클리톤_인증서.jpg">2024 스마일게이트 퓨처랩 AI 서비스 위클리톤 Certificate (Jul. 2024)</a><br>
 </p>
