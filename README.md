@@ -50,6 +50,7 @@ M.S, Computer Science, Kyonggi Univ. (Mar. 2024 - )
 <h4 align="center" style="font-weight: 700;">International Conference</h4>
 <p align="center">
 Jeonghyo Kim, Seungha Noh, Sunwoo Pi, Wonbeen Im, Chanui Hong, Sangjin Kim<br>"An Algorithm based on Infant Abnormal Posture Detection through AI Pose Estimation"<br>18th Asia Pacific International Conference on Information Science and Technology (APIC-IST), 2023<br><br>
+Sun-Woo Pi, Myeong-Soo Park, Byoung-Dai Lee<br>"Enhancing Radiology Report Interpretation with Large-Scale Language Models: A Two-Stage Fine-Tuning Approach"<br>Proceedings of the 27th International Conference on Advanced Communications Technology (ICACT), 2025
 </p>
 <h4 align="center" style="font-weight: 700;">International Journals</h4>
 <p align="center">
