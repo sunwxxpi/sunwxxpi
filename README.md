@@ -7,21 +7,20 @@ M.S. in Computer Science, Kyonggi University
 <h3 align="center">💻 &nbsp Tech Stack &nbsp 💻</h3>
 <p align="center">
   <img height=27em src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Java-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white"/></a>
+  <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=black"/></a>&nbsp
   <br><br>
   <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>&nbsp
   <img height=27em src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+  <img height=27em src="https://img.shields.io/badge/MATLAB-A70023?style=flat&logo=MATLAB&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/ThingSpeak-003D8F?style=flat&logo=ThingSpeak&logoColor=white"/></a>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/></a>
+  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/></a>
+  
 </p>
 
 <br>
@@ -66,7 +65,7 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 <h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
 <div align="center">
 
-| X | <img src="assets/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="assets/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
+| - | <img src="assets/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="assets/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
 |:--:|:--:|:--:|
 | **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (결선) (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
 
