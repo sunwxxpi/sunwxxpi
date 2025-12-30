@@ -77,7 +77,7 @@ Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep L
 
 <br>
 
-<h3 align="center">📜 &nbsp Certificate &nbsp 📜</h3>
+<h3 align="center">📜 &nbsp Certifications &nbsp 📜</h3>
 <p align="center">
 SQL Developer(SQLD) Certificate (Oct. 2021)<br>
 정보처리기사 Certificate (Nov. 2023)<br>
