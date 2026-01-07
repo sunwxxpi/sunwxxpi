@@ -58,7 +58,7 @@ Seungha Noh, Sunwoo Pi, Junhyeon Sim, Byoung-Dai Lee<br>"Text-Image Similarity-G
 <h4 align="center" style="font-weight: 700;">International Journals</h4>
 <p align="center">
 Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees”<br>Scientific Reports, 13(22887), 2023<br><br>
-Farzeen Khalid Khan, Waleed Bin Tahir, Mu Sook Lee, Jin Young Kim, Shi Sub Byon, Sun-Woo Pi, and Byoung-Dai Lee<br>“Leveraging Large-Scale Public Data for Artificial Intelligence-Driven Chest X-Ray Analysis and Diagnosis”<br>Diagnostics, 2026<br>
+Farzeen Khalid Khan, Waleed Bin Tahir, Mu Sook Lee, Jin Young Kim, Shi Sub Byon, Sun-Woo Pi, and Byoung-Dai Lee<br>“Leveraging Large-Scale Public Data for Artificial Intelligence-Driven Chest X-Ray Analysis and Diagnosis”<br>Diagnostics, 2026, 16(1), 146<br>
 </p>
 
 <br>
