@@ -42,10 +42,10 @@ AI Engineer, (주)아이씨티웨이 (Jan. 2026 - )
 
 <h4 align="center" style="font-weight: 700;">Domestic Conference</h4>
 <p align="center">
-피선우, 이병대<br>“딥러닝과 앙상블 기법을 이용한 무릎 골관절염 중증도 자동 분류”<br> 한국인터넷정보학회 춘계학술발표대회, 2023<br><br>
-홍찬의, 김정효, 노승하, 임원빈, 피선우, 김상진<br>“인공지능 기반의 스마트 육아 어플리케이션 시스템 연구 개발”<br>한국정보기술학회 하계종합학술대회 및 대학생논문경진대회, 2023<br><br>
-박명수, 피선우, 이병대<br>“영상의학 판독소견서 해석을 위한 합성 데이터 기반
-초거대 언어 모델 개발 및 평가”<br>한국인터넷정보학회 추계학술발표대회, 2024<br><br>
+피선우, 이병대<br>"딥러닝과 앙상블 기법을 이용한 무릎 골관절염 중증도 자동 분류"<br> 한국인터넷정보학회 춘계학술발표대회, 2023<br><br>
+홍찬의, 김정효, 노승하, 임원빈, 피선우, 김상진<br>"인공지능 기반의 스마트 육아 어플리케이션 시스템 연구 개발"<br>한국정보기술학회 하계종합학술대회 및 대학생논문경진대회, 2023<br><br>
+박명수, 피선우, 이병대<br>"영상의학 판독소견서 해석을 위한 합성 데이터 기반
+초거대 언어 모델 개발 및 평가"<br>한국인터넷정보학회 추계학술발표대회, 2024<br><br>
 권지윤, 노승하, 피선우, 이병대<br>"프롬프트 기반 딥러닝 모델을 활용한 흉부 방사선 영상 카테터 세그멘테이션 모델"<br>한국인터넷정보학회 춘계학술발표대회, 2025
 </p>
 <h4 align="center" style="font-weight: 700;">International Conference</h4>
@@ -58,8 +58,9 @@ Seungha Noh, Sunwoo Pi, Junhyeon Sim, Byoung-Dai Lee<br>"Text-Image Similarity-G
 </p>
 <h4 align="center" style="font-weight: 700;">International Journals</h4>
 <p align="center">
-Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>“Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees”<br>Scientific Reports, 13(22887), 2023<br><br>
-Farzeen Khalid Khan, Waleed Bin Tahir, Mu Sook Lee, Jin Young Kim, Shi Sub Byon, Sun-Woo Pi, and Byoung-Dai Lee<br>“Leveraging Large-Scale Public Data for Artificial Intelligence-Driven Chest X-Ray Analysis and Diagnosis”<br>Diagnostics, 2026, 16(1), 146<br>
+Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee<br>"Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees"<br>Scientific Reports, 13(22887), 2023<br><br>
+Farzeen Khalid Khan, Waleed Bin Tahir, Mu Sook Lee, Jin Young Kim, Shi Sub Byon, Sun-Woo Pi, and Byoung-Dai Lee<br>"Leveraging Large-Scale Public Data for Artificial Intelligence-Driven Chest X-Ray Analysis and Diagnosis"<br>Diagnostics, 2026, 16(1), 146<br><br>
+Won-Jun Noh, Sun-Woo Pi, and Byoung-Dai Lee<br>"Hybrid framework for lesion-aware, clinically coherent chest X-ray report generation using contrastive learning and large language models"<br>Scientific Reports, 16(4645), 2026<br>
 </p>
 
 <br>
