@@ -4,23 +4,24 @@
 
 <br>
 
-<h3 align="center">💻 &nbsp Tech Stack &nbsp 💻</h3>
 <p align="center">
-  <img height=27em src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=black"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=HuggingFace&logoColor=black"/>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/MATLAB-A70023?style=flat&logo=MATLAB&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/ThingSpeak-003D8F?style=flat&logo=ThingSpeak&logoColor=white"/></a>
+  <img height=27em src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/MATLAB-E0600F?style=flat"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/ThingSpeak-0072BD?style=flat"/>
   <br><br>
-  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/></a>
-  
+  <img height=27em src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
 </p>
 
 <br>
