@@ -101,10 +101,12 @@ TOPCIT Lv.3 Certificate (Nov. 2023)<br>
 <br>
 
 <h3 align="center">👩‍💻 &nbsp My GitHub Stats &nbsp 👩‍💻</h3>
-<p id="additional", align="center">
-  <img height="155" width="395" src="https://github-readme-stats-eight-ruby-46.vercel.app/api/?username=sunwxxpi&show_icons=true&theme=dracula&line_height=23"/>
-  <img height="155" width="395" src="https://github-readme-streak-stats.herokuapp.com/?user=sunwxxpi&theme=dracula"/>
-  <img width="1000" src="assets/github_snake.svg" alt="github-snake"/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-ruby-46.vercel.app/api/?username=sunwxxpi&show_icons=true&theme=dracula&card_width=400px&line_height=25" alt="GitHub README Stats" />
+  <img height="180" src="https://github-readme-streak-stats-sunwxxpi.vercel.app?user=sunwxxpi&theme=dracula&card_width=440" alt="GitHub README Streak Stats" />
+</p>
+<p align="center">
+  <img src="assets/github_snake.svg" alt="github-snake" />
 </p>
 
 <!--
