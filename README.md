@@ -6,22 +6,23 @@
 
 <p align="center">
   <img height=27em src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <br><br>
   <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=HuggingFace&logoColor=black"/>
+  <img height=27em src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=HuggingFace&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/vLLM-3B82F6?style=flat&logoColor=white"/>
   <br><br>
+  <img height=27em src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
+  <br><br>
+  <img height=27em src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/MATLAB-E0600F?style=flat"/>&nbsp
   <img height=27em src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>&nbsp
   <img height=27em src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/MATLAB-E0600F?style=flat"/>&nbsp
   <img height=27em src="https://img.shields.io/badge/ThingSpeak-0072BD?style=flat"/>
   <br><br>
   <img height=27em src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>&nbsp
+  <img height=27em src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>&nbsp
   <img height=27em src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp
-  <img height=27em src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
+  <img height=27em src="https://img.shields.io/badge/Harness%20Engineering-D97757?style=flat&logo=claude&logoColor=white"/>
 </p>
 
 <br>
