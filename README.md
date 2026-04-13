@@ -4,6 +4,7 @@
 
 <br>
 
+<h3 align="center">💻 &nbsp Tech Stack &nbsp 💻</h3>
 <p align="center">
   <img height=27em src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp
   <img height=27em src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>&nbsp
