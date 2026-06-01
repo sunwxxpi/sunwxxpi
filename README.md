@@ -69,17 +69,28 @@ Won-Jun Noh, Sun-Woo Pi, and Byoung-Dai Lee<br>"Hybrid framework for lesion-awar
 <br>
 
 <h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
-<div align="center">
-
-| - | <img src="assets/심화캡스톤디자인_대상_LSTM.jpg" width="150px"> | <img src="assets/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="150px"> |
-|:--:|:--:|:--:|
-| **NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (결선) (Jan. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
-
-| <img src="assets/2023 상상기업_우수상_LSTM.jpg" width="150px"> | <img src="assets/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="150px"> |
-|:--:|:--:|
-| **경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)** | **과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)** |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="260"><img src="assets/인공지능 데이터 구축 해커톤.png" width="185px"></td>
+    <td align="center" valign="middle"><img src="assets/심화캡스톤디자인_대상_LSTM.jpg" width="185px"></td>
+    <td align="center" valign="middle" width="260"><img src="assets/2023 상상기업_우수 사업계획서상_LSTM.jpg" width="185px"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>NADO MAKER SPACE<br>인공지능 데이터 구축 해커톤<br>🏆 5th place (결선) (Jan. 2023)</b></td>
+    <td align="center"><b>경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)</b></td>
+    <td align="center"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="260"><img src="assets/2023 상상기업_우수상_LSTM.jpg" width="185px"></td>
+    <td align="center" valign="middle"><img src="assets/공개SW 개발자대회_큐브리드대표상_LSTM.jpg" width="185px"></td>
+    <td align="center" valign="middle" width="260"><img src="assets/MICCAI_Grand Challenge_ToothFairy3.png" width="220px"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)</b></td>
+    <td align="center"><b>과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)</b></td>
+    <td align="center"><b>MICCAI 2025<br>Grand Challenge: ToothFairy3<br>🏆 6th place (결선) (Sep. 2025)</b></td>
+  </tr>
+</table>
 
 <br>
 
